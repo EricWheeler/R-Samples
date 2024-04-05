@@ -53,19 +53,11 @@ dataset:
 The Bellabeat dataset contains 2 folders that have a total of 29 CSV
 files.
 
-One folder consists of 11 CSV files for the 3.12.16 - 4.11.16 date
-range.
+- One folder consists of 11 CSV files for the 3.12.16 - 4.11.16 date
+  range.
 
-<img src="images/Bellabeat%20Folder%201.png" width="117" />
-
-<img src="images/Bellabeat%20Files%201.png" width="358" />
-
-The other folder consists of 18 CSV files for the 4.12.16 - 5.12.16 date
-range.
-
-<img src="images/Bellabeat%20Folder%202-01.png" width="124" />
-
-<img src="images/Bellabeat%20Files%202.png" width="358" />
+- The other folder consists of 18 CSV files for the 4.12.16 - 5.12.16
+  date range.
 
 The file names in the two folders are identical, which could lead to
 confusion when trying to work with them. After selecting the files that

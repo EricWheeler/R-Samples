@@ -36,17 +36,9 @@ I have identified a number of limitations to be aware of for this dataset:
 
 The Bellabeat dataset contains 2 folders that have a total of 29 CSV files.
 
-One folder consists of 11 CSV files for the 3.12.16 - 4.11.16 date range.
+-   One folder consists of 11 CSV files for the 3.12.16 - 4.11.16 date range.
 
-![](images/Bellabeat%20Folder%201.png){width="117"}
-
-![](images/Bellabeat%20Files%201.png){width="358"}
-
-The other folder consists of 18 CSV files for the 4.12.16 - 5.12.16 date range.
-
-![](images/Bellabeat%20Folder%202-01.png){width="124"}
-
-![](images/Bellabeat%20Files%202.png){width="358"}
+-   The other folder consists of 18 CSV files for the 4.12.16 - 5.12.16 date range.
 
 The file names in the two folders are identical, which could lead to confusion when trying to work with them. After selecting the files that would be useful for this analysis, I updated the file names to include the date range for the data.
 

@@ -746,3 +746,4 @@ Activity Level and Sleep Category Insights:
   “sedentary” compared with weekdays. The smart device could have
   special settings for weekends to remind users to get active if
   sedentary time hits a certain threshold.
+
